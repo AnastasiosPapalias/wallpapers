@@ -7,7 +7,7 @@ A curated collection of desktop wallpapers for various display formats and prefe
 ```
 Wallpapers/
 ├── README.md
-└── 32:9/
+└── 329/
     ├── README.md
     ├── macOS G9.jpg
     └── monstera AI G9.png
@@ -15,7 +15,7 @@ Wallpapers/
 
 ## 🖼️ Available Collections
 
-### 📺 [32:9 Ultra-Wide](32:9/)
+### 📺 [329 Ultra-Wide](329/)
 **2 wallpapers** optimized for ultra-wide monitors (5120x1440, 3840x1080)
 
 - **macOS G9.jpg** - Clean macOS-inspired design for ultra-wide displays
@@ -23,13 +23,13 @@ Wallpapers/
 
 Perfect for Samsung Odyssey G9, LG 49" Ultra-Wide, and similar 32:9 aspect ratio displays.
 
-[Browse 32:9 Collection →](32:9/)
+[Browse 329 Collection →](329/)
 
 ## 🎯 Supported Displays
 
 | Format | Resolution Examples | Wallpapers | Folder |
 |--------|-------------------|------------|---------|
-| **32:9 Ultra-Wide** | 5120x1440, 3840x1080 | 2 | [32:9/](32:9/) |
+| **329 Ultra-Wide** | 5120x1440, 3840x1080 | 2 | [329/](329/) |
 
 ## 🌟 Featured Wallpapers
 
