@@ -15,7 +15,7 @@ Wallpapers/
 
 ## 🖼️ Available Collections
 
-### 📺 [329 Ultra-Wide](329/)
+### 📺 [32:9 Ultra-Wide](329/)
 **2 wallpapers** optimized for ultra-wide monitors (5120x1440, 3840x1080)
 
 - **macOS G9.jpg** - Clean macOS-inspired design for ultra-wide displays
@@ -29,7 +29,7 @@ Perfect for Samsung Odyssey G9, LG 49" Ultra-Wide, and similar 32:9 aspect ratio
 
 | Format | Resolution Examples | Wallpapers | Folder |
 |--------|-------------------|------------|---------|
-| **329 Ultra-Wide** | 5120x1440, 3840x1080 | 2 | [329/](329/) |
+| **32:9 Ultra-Wide** | 5120x1440, 3840x1080 | 2 | [329/](329/) |
 
 ## 🌟 Featured Wallpapers
 
